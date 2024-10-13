@@ -4,28 +4,28 @@
         "title": "Bad Road Conditions",
         "description": "In many areas, roads are filled with potholes and damage due to lack of maintenance, making transportation slow and unsafe.",
         "category": "infrastructure",
-        "image": "images/road.jpg"
+        "image": "road.jpg"
     },
     {
         "name": "Jobless Youth",
         "title": "High Unemployment Rates",
         "description": "Many young people in small towns and villages struggle to find jobs, often relying on seasonal work or migrating to cities.",
         "category": "employment",
-        "image": "images/jobless.jpg"
+        "image": "jobless.jpg"
     },
     {
         "name": "Farming Struggles",
         "title": "Drought-Affected Crops",
         "description": "Farmers in dry regions face crop failure due to insufficient water supply, impacting their income and the local food supply.",
         "category": "agriculture",
-        "image": "images/farming.jpg"
+        "image": "farming.jpg"
     },
     {
         "name": "Slum Conditions",
         "title": "Unsafe Housing in Slums",
         "description": "Families in urban slums live in cramped, poorly built houses without basic amenities like clean water or electricity.",
         "category": "housing",
-        "image": "images/slum.jpg"
+        "image": "slum.jpg"
     },
   
     {
@@ -33,42 +33,42 @@
         "title": "Women Paid Less for Same Work",
         "description": "Women in some industries are paid significantly less than men for the same roles, contributing to long-term financial inequality.",
         "category": "gender_equality",
-        "image": "images/paygap.jpg"
+        "image": "paygap.jpg"
     },
     {
         "name": "Unsafe Neighborhoods",
         "title": "Lack of Street Lighting",
         "description": "In some areas, streets remain dark at night due to broken streetlights, making it unsafe for people, especially women, to walk alone.",
         "category": "public_safety",
-        "image": "images/unsafeneignour.jpg"
+        "image": "unsafeneignour.jpg"
     },
     {
         "name": "Isolation of Elderly",
         "title": "Elderly People Left Alone",
         "description": "In many towns, elderly individuals live alone without any community or social support, making them feel isolated and unsafe.",
         "category": "social_welfare",
-        "image": "images/isolation.jpg"
+        "image": "isolation.jpg"
     },
     {
         "name": "Overflowing Trash Bins",
         "title": "Improper Waste Collection",
         "description": "Overflowing trash bins are a common sight in many neighborhoods due to irregular waste collection schedules, attracting pests and causing foul smells.",
         "category": "waste_management",
-        "image": "images/overflowing.jpg"
+        "image": "overflowing.jpg"
     },
     {
         "name": "Small Business Struggles",
         "title": "Retailers Facing Supply Shortages",
         "description": "Local retailers often face supply shortages and struggle to compete with big chains, affecting their ability to serve customers consistently.",
         "category": "B2B",
-        "image": "images/smallbusiness.jpg"
+        "image": "smallbusiness.jpg"
     },
     {
         "name": "Low-Quality Consumer Goods",
         "title": "Faulty Products in Market",
         "description": "Customers often complain about low-quality products flooding the market, leading to trust issues and frequent returns.",
         "category": "B2C",
-        "image": "images/lowquality.jpg"
+        "image": "lowquality.jpg"
     },
 
     {
@@ -76,35 +76,35 @@
         "title": "Access to Clean Water",
         "description": "Over 2 billion people globally lack access to safe drinking water, leading to health crises, economic burdens, and reduced quality of life.",
         "category": "health",
-        "image": "images/watercrises.jpg"
+        "image": "watercrises.jpg"
     },
     {
         "name": "Education Deficiency",
         "title": "Lack of Quality Education",
         "description": "Millions of children, particularly in developing regions, have limited access to quality education, hindering economic and social development.",
         "category": "education",
-        "image": "images/educationDeficiency.jpg"
+        "image": "educationDeficiency.jpg"
     },
     {
         "name": "Food Insecurity",
         "title": "Hunger and Malnutrition",
         "description": "Approximately 800 million people suffer from hunger, and millions more face malnutrition due to poverty, conflict, and environmental issues.",
         "category": "food",
-        "image": "images/foodsecuirity.png"
+        "image": "foodsecuirity.png"
     },
     {
         "name": "Climate Change",
         "title": "Environmental Degradation",
         "description": "The increase in global temperatures is leading to extreme weather events, affecting agriculture, displacing populations, and endangering ecosystems.",
         "category": "environment",
-        "image": "images/climate.jpg"
+        "image": "climate.jpg"
     },
     {
         "name": "Gender Inequality",
         "title": "Discrimination Against Women",
         "description": "Women worldwide still face discrimination in terms of education, employment, and rights, impacting societal development and economic growth.",
         "category": "social",
-        "image": "images/genderinequality.jpg"
+        "image": "genderinequality.jpg"
     },
 
 
@@ -113,70 +113,70 @@
         "title": "Inefficiencies in Supply Chain Management",
         "description": "Many businesses struggle with supply chain disruptions due to unforeseen events, leading to delays and increased costs.",
         "category": "B2B",
-        "image": "images/supplychain.jpg"
+        "image": "supplychain.jpg"
     },
     {
         "name": "Customer Retention",
         "title": "Difficulty in Retaining Customers",
         "description": "Businesses face challenges in maintaining customer loyalty in competitive markets, leading to increased churn rates.",
         "category": "B2B",
-        "image": "images/customer.jpg"
+        "image": "customer.jpg"
     },
     {
         "name": "Data Security",
         "title": "Cybersecurity Threats",
         "description": "With the rise of digital transformation, businesses are increasingly vulnerable to cyberattacks and data breaches, threatening sensitive information.",
         "category": "B2B",
-        "image": "images/CyberSecurity.jpg"
+        "image": "CyberSecurity.jpg"
     },
     {
         "name": "Remote Work Challenges",
         "title": "Managing Remote Teams",
         "description": "Companies struggle to effectively manage remote teams, facing issues with communication, productivity, and employee engagement.",
         "category": "B2B",
-        "image": "images/remotework.jpg"
+        "image": "remotework.jpg"
     },
     {
         "name": "Talent Acquisition",
         "title": "Hiring Skilled Employees",
         "description": "Finding and retaining qualified talent has become increasingly difficult, especially in specialized fields, leading to skill shortages.",
         "category": "B2B",
-        "image": "images/talent.jpg"
+        "image": "talent.jpg"
     },
     {
         "name": "Regulatory Compliance",
         "title": "Navigating Regulatory Changes",
         "description": "Businesses often struggle to keep up with evolving regulations, which can result in fines, legal issues, and operational disruptions.",
         "category": "B2B",
-        "image": "images/regulatoryjpg.jpg"
+        "image": "regulatoryjpg.jpg"
     },
     {
         "name": "Sustainability Initiatives",
         "title": "Implementing Sustainable Practices",
         "description": "Many companies face pressure to adopt sustainable practices but lack the knowledge or resources to implement effective solutions.",
         "category": "B2B",
-        "image": "images/sustainability.jpg"
+        "image": "sustainability.jpg"
     },
     {
         "name": "Inventory Management",
         "title": "Overstock and Stockouts",
         "description": "Businesses struggle with managing inventory effectively, leading to either overstocking or stockouts, which affect profitability.",
         "category": "B2B",
-        "image": "images/inventory.jpg"
+        "image": "inventory.jpg"
     },
     {
         "name": "Marketing Effectiveness",
         "title": "Measuring Marketing ROI",
         "description": "Many companies find it challenging to measure the effectiveness of their marketing campaigns, leading to inefficient allocation of resources.",
         "category": "B2B",
-        "image": "images/marketing.jpg"
+        "image": "marketing.jpg"
     },
     {
         "name": "Technology Integration",
         "title": "Integrating New Technologies",
         "description": "Businesses often struggle to integrate new technologies with existing systems, causing inefficiencies and frustration among employees.",
         "category": "B2B",
-        "image": "images/technology.jpg"
+        "image": "technology.jpg"
     },
 
     {
@@ -184,28 +184,28 @@
         "title": "Health Services Shutdown",
         "description": "In small towns, local clinics are shutting down due to low funding, leaving residents without easy access to doctors or basic health services.",
         "category": "health",
-        "image": "images/clinic.jpg"
+        "image": "clinic.jpg"
     },
     {
         "name": "Untrained Teachers",
         "title": "Lack of Qualified Teachers",
         "description": "Many schools in rural areas have untrained teachers, making it hard for kids to learn effectively and keeping them behind their urban peers.",
         "category": "education",
-        "image": "images/untrained teachers.jpg"
+        "image": "untrained teachers.jpg"
     },
     {
         "name": "Dirty Drinking Water",
         "title": "Contaminated Water Supply",
         "description": "People in certain villages still rely on untreated river water, leading to frequent outbreaks of diseases like cholera and dysentery.",
         "category": "environment",
-        "image": "images/DirtyWater.jpg"
+        "image": "DirtyWater.jpg"
     },
     {
         "name": "Poor Internet Connectivity",
         "title": "Slow and Unreliable Internet",
         "description": "Some small towns and rural areas experience frequent internet outages, affecting businesses and children’s online learning.",
         "category": "technology",
-        "image": "images/poornetwork.jpg"
+        "image": "poornetwork.jpg"
     },
     
     {
@@ -213,7 +213,7 @@
         "title": "Street Vendor Congestion",
         "description": "Streets in busy areas are congested with unregulated vendors, making it difficult for pedestrians and vehicles to move freely.",
         "category": "others",
-        "image": "images/unregulatedvendoe.jpg"
+        "image": "unregulatedvendoe.jpg"
     },
 
     
