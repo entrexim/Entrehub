@@ -1,0 +1,804 @@
+[
+
+    {
+        "name": "Typeform",
+        "title": "Online Form Builder",
+        "description": "Typeform is an online tool for creating forms and surveys.",
+        "category": "technology",
+        "image": "https://www.typeform.com/favicon.ico",
+        "link": "https://www.typeform.com/"
+    },
+    {
+        "name": "Dropbox",
+        "title": "File Hosting Service",
+        "description": "Dropbox is a file hosting service that offers cloud storage and file synchronization.",
+        "category": "technology",
+        "image": "https://www.dropbox.com/favicon.ico",
+        "link": "https://www.dropbox.com/"
+    },
+    {
+        "name": "Buffer",
+        "title": "Social Media Management Tool",
+        "description": "Buffer helps businesses manage and schedule their social media posts.",
+        "category": "technology",
+        "image": "https://buffer.com/favicon.ico",
+        "link": "https://buffer.com/"
+    },
+    {
+        "name": "Calendly",
+        "title": "Scheduling Tool",
+        "description": "Calendly is a scheduling tool that simplifies meeting planning.",
+        "category": "technology",
+        "image": "https://calendly.com/favicon.ico",
+        "link": "https://calendly.com/"
+    },
+    {
+        "name": "HelloFresh",
+        "title": "Meal Kit Delivery Service",
+        "description": "HelloFresh delivers meal kits with fresh ingredients and recipes.",
+        "category": "B2C",
+        "image": "https://www.hellofresh.com/favicon.ico",
+        "link": "https://www.hellofresh.com/"
+    },
+    {
+        "name": "N26",
+        "title": "Mobile Banking",
+        "description": "N26 is a mobile bank offering financial services through its app.",
+        "category": "financial_inclusion",
+        "image": "https://n26.com/favicon.ico",
+        "link": "https://n26.com/"
+    },
+    {
+        "name": "Glovo",
+        "title": "On-Demand Delivery Service",
+        "description": "Glovo delivers food and groceries to customers from local stores.",
+        "category": "B2C",
+        "image": "https://glovoapp.com/favicon.ico",
+        "link": "https://glovoapp.com/"
+    },
+    {
+        "name": "Celonis",
+        "title": "Process Mining Software",
+        "description": "Celonis helps companies improve their processes using data analytics.",
+        "category": "technology",
+        "image": "https://www.celonis.com/favicon.ico",
+        "link": "https://www.celonis.com/"
+    },
+    {
+        "name": "Pipedrive",
+        "title": "Sales CRM Software",
+        "description": "Pipedrive is a sales CRM designed to help sales teams manage their pipelines.",
+        "category": "technology",
+        "image": "https://www.pipedrive.com/favicon.ico",
+        "link": "https://www.pipedrive.com/"
+    },
+    {
+        "name": "Mailchimp",
+        "title": "Email Marketing Service",
+        "description": "Mailchimp is an email marketing service that helps businesses manage campaigns.",
+        "category": "technology",
+        "image": "https://mailchimp.com/favicon.ico",
+        "link": "https://mailchimp.com/"
+    },
+    {
+        "name": "Khan Academy",
+        "title": "Educational Resources",
+        "description": "Khan Academy offers free online courses and resources for learners.",
+        "category": "education",
+        "image": "https://www.khanacademy.org/favicon.ico",
+        "link": "https://www.khanacademy.org/"
+    },
+    {
+        "name": "Coursera",
+        "title": "Online Learning Platform",
+        "description": "Coursera partners with universities to offer online courses.",
+        "category": "education",
+        "image": "https://www.coursera.org/favicon.ico",
+        "link": "https://www.coursera.org/"
+    },
+    {
+        "name": "Nuro",
+        "title": "Autonomous Delivery Vehicles",
+        "description": "Nuro develops autonomous delivery vehicles for local goods delivery.",
+        "category": "B2B",
+        "image": "https://nuro.ai/wp-content/uploads/2021/10/nuro-green-surface.png",
+        "link": "https://nuro.ai/"
+    },
+    {
+        "name": "CureVac",
+        "title": "mRNA Technology for Vaccines",
+        "description": "CureVac is pioneering the use of mRNA technology for vaccines and therapeutics.",
+        "category": "health",
+        "image": "https://www.curevac.com/wp-content/uploads/2021/11/8-2.png",
+        "link": "https://www.curevac.com/"
+    },
+    {
+        "name": "TransferWise",
+        "title": "International Money Transfers",
+        "description": "Wise provides a fast and cheap way to transfer money internationally.",
+        "category": "financial_inclusion",
+        "image": "https://wise.com/assets/images/landing/desktop.9d7d25d60b5e69e7f2d1.png",
+        "link": "https://wise.com/"
+    },
+    {
+        "name": "Ecovative Design",
+        "title": "Mycelium Packaging Solutions",
+        "description": "Ecovative develops sustainable packaging materials made from mycelium.",
+        "category": "environment",
+        "image": "https://www.ecovative.com/wp-content/uploads/2020/01/mycofoam-bio-packaging.jpg",
+        "link": "https://www.ecovative.com/"
+    },
+    {
+        "name": "Revolut",
+        "title": "Digital Banking Services",
+        "description": "Revolut offers digital banking services including international spending and currency exchange.",
+        "category": "financial_inclusion",
+        "image": "https://www.revolut.com/assets/img/revolut_logo.svg",
+        "link": "https://www.revolut.com/"
+    },
+    {
+        "name": "DeepMind",
+        "title": "AI Research and Development",
+        "description": "DeepMind is a leading AI research lab that aims to solve intelligence and use it to advance science.",
+        "category": "technology",
+        "image": "https://deepmind.com/static/img/deepmind_logo.9aa4e22d.svg",
+        "link": "https://deepmind.com/"
+    },
+    {
+        "name": "Vinted",
+        "title": "Second-hand Clothing Marketplace",
+        "description": "Vinted is a marketplace for second-hand clothing, allowing users to buy, sell, and swap.",
+        "category": "B2C",
+        "image": "https://www.vinted.com/static/logo-56909ee5c47c2182b00d9e6c57d4bb96.svg",
+        "link": "https://www.vinted.com/"
+    },
+    {
+        "name": "BioNTech",
+        "title": "Immunotherapy and Vaccines",
+        "description": "BioNTech specializes in personalized cancer therapies and mRNA vaccines.",
+        "category": "health",
+        "image": "https://biontech.de/assets/images/biontech_logo.svg",
+        "link": "https://biontech.de/"
+    },
+    {
+        "name": "Kry",
+        "title": "Digital Healthcare Services",
+        "description": "Kry offers telehealth services, allowing patients to consult with doctors online.",
+        "category": "health",
+        "image": "https://www.kry.se/img/kry.svg",
+        "link": "https://www.kry.se/"
+    },
+    {
+        "name": "N26",
+        "title": "Mobile Banking",
+        "description": "N26 provides a mobile banking solution with no hidden fees and an intuitive app.",
+        "category": "financial_inclusion",
+        "image": "https://n26.com/static/images/brand/n26-logo.svg",
+        "link": "https://n26.com/"
+    },
+    {
+        "name": "Nexthink",
+        "title": "Digital Employee Experience Management",
+        "description": "Nexthink provides solutions for managing and improving employee digital experiences.",
+        "category": "B2B",
+        "image": "https://www.nexthink.com/wp-content/uploads/2020/04/Nexthink_Logo_Social.png",
+        "link": "https://www.nexthink.com/"
+    },
+    {
+        "name": "Sustainable Fisheries UW",
+        "title": "Sustainable Seafood Sourcing",
+        "description": "This initiative focuses on sustainable sourcing of seafood through research and community engagement.",
+        "category": "environment",
+        "image": "https://static.wixstatic.com/media/eabc8c_c4d71de077a74fc7a739f7ff63a1b65c~mv2.jpg/v1/fill/w_640,h_425,al_c,q_80,usm_0.66_1.00_0.01/eabc8c_c4d71de077a74fc7a739f7ff63a1b65c~mv2.jpg",
+        "link": "https://sustainablefisheriesuw.org/"
+    },
+    {
+        "name": "Plum",
+        "title": "Smart Personal Finance App",
+        "description": "Plum is an app that helps users save and invest their money automatically.",
+        "category": "financial_inclusion",
+        "image": "https://www.plumapp.com/img/logo.svg",
+        "link": "https://www.plumapp.com/"
+    },
+    {
+        "name": "Nabers",
+        "title": "Sustainability Rating System",
+        "description": "Nabers is a sustainability rating system that helps buildings reduce their environmental impact.",
+        "category": "environment",
+        "image": "https://nabers.com.au/wp-content/uploads/2019/03/nabers_logo.svg",
+        "link": "https://nabers.com.au/"
+    },
+    {
+        "name": "CleverTap",
+        "title": "Customer Engagement and Retention",
+        "description": "CleverTap provides customer engagement and retention solutions for businesses.",
+        "category": "technology",
+        "image": "https://clevertap.com/images/brand/clevertap-logo.svg",
+        "link": "https://clevertap.com/"
+    },
+    {
+        "name": "Deliveroo",
+        "title": "Food Delivery Service",
+        "description": "Deliveroo connects customers with the best local restaurants for food delivery.",
+        "category": "B2C",
+        "image": "https://d1z9u8w4l2b7z1.cloudfront.net/images/logo.svg",
+        "link": "https://deliveroo.co.uk/"
+    },
+    {
+        "name": "GreenerU",
+        "title": "Sustainable Campus Initiatives",
+        "description": "GreenerU is dedicated to advancing sustainability initiatives on college campuses.",
+        "category": "environment",
+        "image": "https://greeneru.org/wp-content/uploads/2020/03/greeneru-logo.svg",
+        "link": "https://greeneru.org/"
+    },
+    {
+        "name": "Lendable",
+        "title": "Fintech Lending Solutions",
+        "description": "Lendable provides automated lending solutions for businesses and consumers.",
+        "category": "financial_inclusion",
+        "image": "https://lendable.co.uk/wp-content/uploads/2021/01/Lendable-Logo.svg",
+        "link": "https://lendable.co.uk/"
+    },
+    {
+        "name": "Lilium",
+        "title": "Electric Air Mobility",
+        "description": "Lilium is developing electric vertical take-off and landing aircraft for urban air mobility.",
+        "category": "technology",
+        "image": "https://lilium.com/static/img/lilium/logo.svg",
+        "link": "https://lilium.com/"
+    },
+    {
+        "name": "Ben & Jerry's",
+        "title": "Socially Responsible Ice Cream",
+        "description": "Ben & Jerry's is known for its commitment to sustainability and social justice.",
+        "category": "B2C",
+        "image": "https://www.benjerry.com/logo.png",
+        "link": "https://www.benjerry.com/"
+    },
+    {
+        "name": "Keenan",
+        "title": "Eco-friendly Packaging Solutions",
+        "description": "Keenan develops sustainable packaging solutions for various industries.",
+        "category": "environment",
+        "image": "https://keenan.com.au/wp-content/uploads/2020/05/Keenan_Logo_Full_Colour_RGB.png",
+        "link": "https://keenan.com.au/"
+    },
+    {
+        "name": "ZeroCo",
+        "title": "Plastic Waste Reduction",
+        "description": "ZeroCo provides eco-friendly personal care and household products to reduce plastic waste.",
+        "category": "environment",
+        "image": "https://zero.co/static/logo.svg",
+        "link": "https://zero.co/"
+    },
+    {
+        "name": "BlaBlaCar",
+        "title": "Carpooling Platform",
+        "description": "BlaBlaCar connects drivers with passengers looking for long-distance rides.",
+        "category": "B2C",
+        "image": "https://www.blablacar.com/images/logo/logo-blablacar.svg",
+        "link": "https://www.blablacar.com/"
+    },
+    {
+        "name": "Airbnb",
+        "title": "Home Rental Platform",
+        "description": "Airbnb allows individuals to rent out their homes and experiences to travelers.",
+        "category": "B2C",
+        "image": "https://aero-air.com/wp-content/uploads/2021/01/airbnb-logo.png",
+        "link": "https://www.airbnb.com/"
+    },
+    {
+        "name": "Zoopla",
+        "title": "Property Search Platform",
+        "description": "Zoopla provides a platform for buying, selling, and renting properties.",
+        "category": "housing",
+        "image": "https://www.zoopla.co.uk/static/images/logo.svg",
+        "link": "https://www.zoopla.co.uk/"
+    },
+    {
+        "name": "Ecovent",
+        "title": "Smart Ventilation Systems",
+        "description": "Ecovent provides smart ventilation systems that optimize indoor air quality.",
+        "category": "technology",
+        "image": "https://www.ecovent.com/wp-content/uploads/2019/01/Logo-Ecovent-Header-Logo.png",
+        "link": "https://www.ecovent.com/"
+    },
+    {
+        "name": "YFood",
+        "title": "Complete Meal Replacement",
+        "description": "YFood offers nutritious meal replacement drinks for busy lifestyles.",
+        "category": "health",
+        "image": "https://yfood.eu/wp-content/uploads/2021/04/logo_yfood.png",
+        "link": "https://yfood.eu/"
+    },
+    {
+        "name": "Makers Unite",
+        "title": "Creative Collaborations",
+        "description": "Makers Unite connects refugees and locals through co-creation projects.",
+        "category": "social_welfare",
+        "image": "https://makersunite.com/wp-content/uploads/2020/11/Makers_United_Logo_White.png",
+        "link": "https://makersunite.com/"
+    },
+    {
+        "name": "Atom Bank",
+        "title": "Digital Banking",
+        "description": "Atom Bank is the UK's first app-based bank, offering savings and loans.",
+        "category": "financial_inclusion",
+        "image": "https://atombank.co.uk/assets/images/atom-logo.svg",
+        "link": "https://atombank.co.uk/"
+    },
+    {
+        "name": "Gorilla Glue",
+        "title": "Strong Adhesive Products",
+        "description": "Gorilla Glue offers a range of adhesives, tapes, and sealants.",
+        "category": "infrastructure",
+        "image": "https://www.gorillaglue.com/wp-content/themes/gorillaglue/assets/logo.svg",
+        "link": "https://www.gorillaglue.com/"
+    },
+    {
+        "name": "VivaTech",
+        "title": "Tech Events and Innovation",
+        "description": "VivaTech is a global platform for innovation and startups.",
+        "category": "technology",
+        "image": "https://www.vivatech.com/static/img/logo.svg",
+        "link": "https://www.vivatech.com/"
+    },
+    {
+        "name": "CleverShuttle",
+        "title": "Shared Mobility Service",
+        "description": "CleverShuttle provides shared rides in electric vehicles.",
+        "category": "public_safety",
+        "image": "https://www.clevershuttle.de/wp-content/uploads/2021/04/clevershuttle.svg",
+        "link": "https://www.clevershuttle.de/"
+    },
+    {
+        "name": "Pawscout",
+        "title": "Smart Pet Tracker",
+        "description": "Pawscout offers a smart pet tracker that helps locate lost pets.",
+        "category": "B2C",
+        "image": "https://pawscout.com/wp-content/uploads/2021/04/Pawscout-Logo-Black.png",
+        "link": "https://pawscout.com/"
+    },
+    {
+        "name": "Ecovative",
+        "title": "Biodegradable Packaging",
+        "description": "Ecovative develops packaging solutions made from mycelium.",
+        "category": "environment",
+        "image": "https://ecovative.com/wp-content/uploads/2020/12/logo_full.png",
+        "link": "https://ecovative.com/"
+    },
+    {
+        "name": "GreenMind",
+        "title": "Eco-Friendly Landscaping",
+        "description": "GreenMind specializes in sustainable landscaping solutions.",
+        "category": "environment",
+        "image": "https://greenmindlandscaping.com/wp-content/uploads/2021/04/logo-greenmind.svg",
+        "link": "https://greenmindlandscaping.com/"
+    },
+    {
+        "name": "Rentify",
+        "title": "Rental Property Management",
+        "description": "Rentify helps landlords manage their rental properties efficiently.",
+        "category": "housing",
+        "image": "https://www.rentify.com/images/logo.png",
+        "link": "https://www.rentify.com/"
+    },
+    {
+        "name": "Slack",
+        "title": "Team Collaboration Tool",
+        "description": "Slack is a collaboration hub that connects work teams and simplifies communication.",
+        "category": "technology",
+        "image": "https://slack.com/img/icons/app-256.png",
+        "link": "https://slack.com/"
+    },
+    {
+        "name": "Zalando",
+        "title": "Online Fashion Retailer",
+        "description": "Zalando is a European e-commerce company specializing in fashion.",
+        "category": "B2C",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Zalando_logo.svg/2560px-Zalando_logo.svg.png",
+        "link": "https://www.zalando.com/"
+    },
+    {
+        "name": "Loom",
+        "title": "Video Messaging Platform",
+        "description": "Loom is a video messaging tool for work that helps teams communicate better.",
+        "category": "technology",
+        "image": "https://www.loom.com/logo.svg",
+        "link": "https://www.loom.com/"
+    },
+    {
+        "name": "Otta",
+        "title": "Job Search Platform",
+        "description": "Otta is a job search platform that focuses on matching candidates with startups.",
+        "category": "employment",
+        "image": "https://otta.com/logo.svg",
+        "link": "https://www.otta.com/"
+    },
+    {
+        "name": "Wish",
+        "title": "Online Shopping Platform",
+        "description": "Wish is an online shopping platform connecting consumers directly with manufacturers.",
+        "category": "B2C",
+        "image": "https://cdn.wish.com/static/img/wish-logo.svg",
+        "link": "https://www.wish.com/"
+    },
+    {
+        "name": "Xiaomi",
+        "title": "Smartphone and Electronics",
+        "description": "Xiaomi is a Chinese electronics company known for its smartphones.",
+        "category": "technology",
+        "image": "https://www.mi.com/global/img/logo.svg",
+        "link": "https://www.mi.com/"
+    },
+    {
+        "name": "WeTransfer",
+        "title": "File Sharing Service",
+        "description": "WeTransfer provides a simple file sharing service for large files.",
+        "category": "technology",
+        "image": "https://wetransfer.com/images/logo.svg",
+        "link": "https://wetransfer.com/"
+    },
+    {
+        "name": "Boom Supersonic",
+        "title": "Sustainable Supersonic Travel",
+        "description": "Boom is developing the world's fastest and most sustainable supersonic aircraft.",
+        "category": "technology",
+        "image": "https://boomsupersonic.com/assets/images/logo.svg",
+        "link": "https://boomsupersonic.com/"
+    },
+    {
+        "name": "Tinder",
+        "title": "Dating App",
+        "description": "Tinder is a dating app that connects people through mutual interests.",
+        "category": "B2C",
+        "image": "https://tinder.com/static/images/logo.svg",
+        "link": "https://tinder.com/"
+    },
+    {
+        "name": "Coinbase",
+        "title": "Cryptocurrency Exchange",
+        "description": "Coinbase is a digital currency wallet and platform where merchants and consumers can transact with new digital currencies.",
+        "category": "financial_inclusion",
+        "image": "https://www.coinbase.com/assets/images/logo.svg",
+        "link": "https://www.coinbase.com/"
+    },
+    {
+        "name": "Trello",
+        "title": "Project Management Tool",
+        "description": "Trello is a collaboration tool that organizes your projects into boards.",
+        "category": "technology",
+        "image": "https://trello.com/assets/brand/logo.svg",
+        "link": "https://trello.com/"
+    },
+    {
+        "name": "Spotify",
+        "title": "Music Streaming Service",
+        "description": "Spotify provides a music streaming service that gives users access to millions of songs.",
+        "category": "B2C",
+        "image": "https://www.spotify.com/favicon.ico",
+        "link": "https://www.spotify.com/"
+    },
+    {
+        "name": "LinkedIn",
+        "title": "Professional Networking",
+        "description": "LinkedIn is a social network for professionals to connect and share their career experiences.",
+        "category": "employment",
+        "image": "https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico",
+        "link": "https://www.linkedin.com/"
+    },
+    {
+        "name": "Pinterest",
+        "title": "Visual Discovery Engine",
+        "description": "Pinterest is a visual discovery engine that helps users find and save creative ideas.",
+        "category": "B2C",
+        "image": "https://www.pinterest.com/favicon.ico",
+        "link": "https://www.pinterest.com/"
+    },
+    {
+        "name": "Eventbrite",
+        "title": "Event Management Platform",
+        "description": "Eventbrite allows users to create, share, and promote events.",
+        "category": "B2C",
+        "image": "https://www.eventbrite.com/favicon.ico",
+        "link": "https://www.eventbrite.com/"
+    },
+    {
+        "name": "Zoom",
+        "title": "Video Conferencing Tool",
+        "description": "Zoom is a video conferencing tool that facilitates online meetings.",
+        "category": "technology",
+        "image": "https://zoom.us/favicon.ico",
+        "link": "https://zoom.us/"
+    },
+    {
+        "name": "Uber",
+        "title": "Ride-Sharing Service",
+        "description": "Uber is a ride-sharing service connecting passengers with drivers.",
+        "category": "B2C",
+        "image": "https://www.uber.com/favicon.ico",
+        "link": "https://www.uber.com/"
+    },
+    {
+        "name": "Delivery Hero",
+        "title": "Food Delivery Service",
+        "description": "Delivery Hero is a global online food ordering and delivery service.",
+        "category": "B2C",
+        "image": "https://www.deliveryhero.com/favicon.ico",
+        "link": "https://www.deliveryhero.com/"
+    },
+    {
+        "name": "Wish",
+        "title": "Online Shopping Platform",
+        "description": "Wish is an online shopping platform connecting consumers directly with manufacturers.",
+        "category": "B2C",
+        "image": "https://cdn.wish.com/static/img/wish-logo.svg",
+        "link": "https://www.wish.com/"
+    },
+    {
+        "name": "Airbnb",
+        "title": "Home Rental Platform",
+        "description": "Airbnb allows individuals to rent out their homes and experiences to travelers.",
+        "category": "B2C",
+        "image": "https://aero-air.com/wp-content/uploads/2021/01/airbnb-logo.png",
+        "link": "https://www.airbnb.com/"
+    },
+    {
+        "name": "Zoopla",
+        "title": "Property Search Platform",
+        "description": "Zoopla provides a platform for buying, selling, and renting properties.",
+        "category": "housing",
+        "image": "https://www.zoopla.co.uk/static/images/logo.svg",
+        "link": "https://www.zoopla.co.uk/"
+    },
+    {
+        "name": "Ecovent",
+        "title": "Smart Ventilation Systems",
+        "description": "Ecovent provides smart ventilation systems that optimize indoor air quality.",
+        "category": "technology",
+        "image": "https://www.ecovent.com/wp-content/uploads/2019/01/Logo-Ecovent-Header-Logo.png",
+        "link": "https://www.ecovent.com/"
+    },
+    {
+        "name": "YFood",
+        "title": "Complete Meal Replacement",
+        "description": "YFood offers nutritious meal replacement drinks for busy lifestyles.",
+        "category": "health",
+        "image": "https://yfood.eu/wp-content/uploads/2021/04/logo_yfood.png",
+        "link": "https://yfood.eu/"
+    },
+    {
+        "name": "Makers Unite",
+        "title": "Creative Collaborations",
+        "description": "Makers Unite connects refugees and locals through co-creation projects.",
+        "category": "social_welfare",
+        "image": "https://makersunite.com/wp-content/uploads/2020/11/Makers_United_Logo_White.png",
+        "link": "https://makersunite.com/"
+    },
+    {
+        "name": "Atom Bank",
+        "title": "Digital Banking",
+        "description": "Atom Bank is the UK's first app-based bank, offering savings and loans.",
+        "category": "financial_inclusion",
+        "image": "https://atombank.co.uk/assets/images/atom-logo.svg",
+        "link": "https://atombank.co.uk/"
+    },
+    {
+        "name": "Gorilla Glue",
+        "title": "Strong Adhesive Products",
+        "description": "Gorilla Glue offers a range of adhesives, tapes, and sealants.",
+        "category": "infrastructure",
+        "image": "https://www.gorillaglue.com/wp-content/themes/gorillaglue/assets/logo.svg",
+        "link": "https://www.gorillaglue.com/"
+    },
+    {
+        "name": "VivaTech",
+        "title": "Tech Events and Innovation",
+        "description": "VivaTech is a global platform for innovation and startups.",
+        "category": "technology",
+        "image": "https://www.vivatech.com/static/img/logo.svg",
+        "link": "https://www.vivatech.com/"
+    },
+    {
+        "name": "CleverShuttle",
+        "title": "Shared Mobility Service",
+        "description": "CleverShuttle provides shared rides in electric vehicles.",
+        "category": "public_safety",
+        "image": "https://www.clevershuttle.de/wp-content/uploads/2021/04/clevershuttle.svg",
+        "link": "https://www.clevershuttle.de/"
+    },
+    {
+        "name": "Pawscout",
+        "title": "Smart Pet Tracker",
+        "description": "Pawscout offers a smart pet tracker that helps locate lost pets.",
+        "category": "B2C",
+        "image": "https://pawscout.com/wp-content/uploads/2021/04/Pawscout-Logo-Black.png",
+        "link": "https://pawscout.com/"
+    },
+    {
+        "name": "Ecovative",
+        "title": "Biodegradable Packaging",
+        "description": "Ecovative develops packaging solutions made from mycelium.",
+        "category": "environment",
+        "image": "https://ecovative.com/wp-content/uploads/2020/12/logo_full.png",
+        "link": "https://ecovative.com/"
+    },
+    {
+        "name": "GreenMind",
+        "title": "Eco-Friendly Landscaping",
+        "description": "GreenMind specializes in sustainable landscaping solutions.",
+        "category": "environment",
+        "image": "https://greenmindlandscaping.com/wp-content/uploads/2021/04/logo-greenmind.svg",
+        "link": "https://greenmindlandscaping.com/"
+    },
+    {
+        "name": "Rentify",
+        "title": "Rental Property Management",
+        "description": "Rentify helps landlords manage their rental properties efficiently.",
+        "category": "housing",
+        "image": "https://www.rentify.com/images/logo.png",
+        "link": "https://www.rentify.com/"
+    },
+    {
+        "name": "Slack",
+        "title": "Team Collaboration Tool",
+        "description": "Slack is a collaboration hub that connects work teams and simplifies communication.",
+        "category": "technology",
+        "image": "https://slack.com/img/icons/app-256.png",
+        "link": "https://slack.com/"
+    },
+    {
+        "name": "Zalando",
+        "title": "Online Fashion Retailer",
+        "description": "Zalando is a European e-commerce company specializing in fashion.",
+        "category": "B2C",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Zalando_logo.svg/2560px-Zalando_logo.svg.png",
+        "link": "https://www.zalando.com/"
+    },
+    {
+        "name": "Loom",
+        "title": "Video Messaging Platform",
+        "description": "Loom is a video messaging tool for work that helps teams communicate better.",
+        "category": "technology",
+        "image": "https://www.loom.com/logo.svg",
+        "link": "https://www.loom.com/"
+    },
+    {
+        "name": "Otta",
+        "title": "Job Search Platform",
+        "description": "Otta is a job search platform that focuses on matching candidates with startups.",
+        "category": "employment",
+        "image": "https://otta.com/logo.svg",
+        "link": "https://www.otta.com/"
+    },
+    {
+        "name": "Uber Eats",
+        "title": "Food Delivery Service",
+        "description": "Uber Eats is an online food delivery service connecting consumers with local restaurants.",
+        "category": "B2C",
+        "image": "https://www.ubereats.com/favicon.ico",
+        "link": "https://www.ubereats.com/"
+    },
+    {
+        "name": "Delivery.com",
+        "title": "Food and Alcohol Delivery",
+        "description": "Delivery.com allows users to order food, alcohol, and groceries online.",
+        "category": "B2C",
+        "image": "https://www.delivery.com/favicon.ico",
+        "link": "https://www.delivery.com/"
+    },
+    {
+        "name": "Zalando Lounge",
+        "title": "Fashion Outlet",
+        "description": "Zalando Lounge offers discounted fashion from premium brands.",
+        "category": "B2C",
+        "image": "https://www.zalando-lounge.com/favicon.ico",
+        "link": "https://www.zalando-lounge.com/"
+    },
+    {
+        "name": "Wolt",
+        "title": "Food Delivery Service",
+        "description": "Wolt provides food delivery from local restaurants and shops.",
+        "category": "B2C",
+        "image": "https://wolt.com/favicon.ico",
+        "link": "https://wolt.com/"
+    },
+    {
+        "name": "Cazoo",
+        "title": "Online Car Retailer",
+        "description": "Cazoo is an online car retailer that delivers used cars to customers.",
+        "category": "B2C",
+        "image": "https://cazoo.co.uk/favicon.ico",
+        "link": "https://www.cazoo.co.uk/"
+    },
+    {
+        "name": "Uniplaces",
+        "title": "Student Accommodation Platform",
+        "description": "Uniplaces connects students with rental accommodation worldwide.",
+        "category": "housing",
+        "image": "https://uniplaces.com/favicon.ico",
+        "link": "https://www.uniplaces.com/"
+    },
+    {
+        "name": "Fiverr",
+        "title": "Freelance Services Marketplace",
+        "description": "Fiverr connects freelancers with clients looking for services.",
+        "category": "employment",
+        "image": "https://www.fiverr.com/favicon.ico",
+        "link": "https://www.fiverr.com/"
+    },
+    {
+        "name": "Shpock",
+        "title": "Marketplace for Second-Hand Goods",
+        "description": "Shpock is a mobile classifieds app for buying and selling second-hand goods.",
+        "category": "B2C",
+        "image": "https://shpock.com/favicon.ico",
+        "link": "https://www.shpock.com/"
+    },
+    {
+        "name": "Wayfair",
+        "title": "Online Furniture Retailer",
+        "description": "Wayfair is an online retailer that sells furniture and home goods.",
+        "category": "B2C",
+        "image": "https://www.wayfair.com/favicon.ico",
+        "link": "https://www.wayfair.com/"
+    },
+    {
+        "name": "Lyst",
+        "title": "Fashion Search Engine",
+        "description": "Lyst is a fashion search engine that helps users discover products from various brands.",
+        "category": "B2C",
+        "image": "https://www.lyst.com/favicon.ico",
+        "link": "https://www.lyst.com/"
+    },
+    {
+        "name": "Klook",
+        "title": "Travel Activities and Services",
+        "description": "Klook offers travel activities and services for travelers worldwide.",
+        "category": "B2C",
+        "image": "https://www.klook.com/favicon.ico",
+        "link": "https://www.klook.com/"
+    },
+    {
+        "name": "ThredUp",
+        "title": "Online Thrift Store",
+        "description": "ThredUp is an online thrift store for second-hand clothing.",
+        "category": "B2C",
+        "image": "https://www.thredup.com/favicon.ico",
+        "link": "https://www.thredup.com/"
+    },
+    {
+        "name": "Grubhub",
+        "title": "Food Delivery Service",
+        "description": "Grubhub connects diners with local restaurants for takeout and delivery.",
+        "category": "B2C",
+        "image": "https://www.grubhub.com/favicon.ico",
+        "link": "https://www.grubhub.com/"
+    },
+    {
+        "name": "Instacart",
+        "title": "Grocery Delivery Service",
+        "description": "Instacart is an online grocery delivery service connecting users with local stores.",
+        "category": "B2C",
+        "image": "https://www.instacart.com/favicon.ico",
+        "link": "https://www.instacart.com/"
+    },
+    {
+        "name": "Rappi",
+        "title": "On-Demand Delivery Service",
+        "description": "Rappi offers on-demand delivery for groceries, food, and other essentials.",
+        "category": "B2C",
+        "image": "https://www.rappi.com/favicon.ico",
+        "link": "https://www.rappi.com/"
+    },
+    {
+        "name": "Grammarly",
+        "title": "Writing Assistant",
+        "description": "Grammarly is an online writing assistant that helps users with grammar and style.",
+        "category": "technology",
+        "image": "https://www.grammarly.com/favicon.ico",
+        "link": "https://www.grammarly.com/"
+    }
+    
+]   

@@ -1,0 +1,646 @@
+[
+    {
+        "name": "Road Damage",
+        "title": "Bad Road Conditions",
+        "description": "In many areas, roads are filled with potholes and damage due to lack of maintenance, making transportation slow and unsafe.",
+        "category": "infrastructure",
+        "image": "images/road.jpg"
+    },
+    {
+        "name": "Jobless Youth",
+        "title": "High Unemployment Rates",
+        "description": "Many young people in small towns and villages struggle to find jobs, often relying on seasonal work or migrating to cities.",
+        "category": "employment",
+        "image": "images/jobless.jpg"
+    },
+    {
+        "name": "Farming Struggles",
+        "title": "Drought-Affected Crops",
+        "description": "Farmers in dry regions face crop failure due to insufficient water supply, impacting their income and the local food supply.",
+        "category": "agriculture",
+        "image": "images/farming.jpg"
+    },
+    {
+        "name": "Slum Conditions",
+        "title": "Unsafe Housing in Slums",
+        "description": "Families in urban slums live in cramped, poorly built houses without basic amenities like clean water or electricity.",
+        "category": "housing",
+        "image": "images/slum.jpg"
+    },
+  
+    {
+        "name": "Pay Gap Issues",
+        "title": "Women Paid Less for Same Work",
+        "description": "Women in some industries are paid significantly less than men for the same roles, contributing to long-term financial inequality.",
+        "category": "gender_equality",
+        "image": "images/paygap.jpg"
+    },
+    {
+        "name": "Unsafe Neighborhoods",
+        "title": "Lack of Street Lighting",
+        "description": "In some areas, streets remain dark at night due to broken streetlights, making it unsafe for people, especially women, to walk alone.",
+        "category": "public_safety",
+        "image": "images/unsafeneignour.jpg"
+    },
+    {
+        "name": "Isolation of Elderly",
+        "title": "Elderly People Left Alone",
+        "description": "In many towns, elderly individuals live alone without any community or social support, making them feel isolated and unsafe.",
+        "category": "social_welfare",
+        "image": "images/isolation.jpg"
+    },
+    {
+        "name": "Overflowing Trash Bins",
+        "title": "Improper Waste Collection",
+        "description": "Overflowing trash bins are a common sight in many neighborhoods due to irregular waste collection schedules, attracting pests and causing foul smells.",
+        "category": "waste_management",
+        "image": "images/overflowing.jpg"
+    },
+    {
+        "name": "Small Business Struggles",
+        "title": "Retailers Facing Supply Shortages",
+        "description": "Local retailers often face supply shortages and struggle to compete with big chains, affecting their ability to serve customers consistently.",
+        "category": "B2B",
+        "image": "images/smallbusiness.jpg"
+    },
+    {
+        "name": "Low-Quality Consumer Goods",
+        "title": "Faulty Products in Market",
+        "description": "Customers often complain about low-quality products flooding the market, leading to trust issues and frequent returns.",
+        "category": "B2C",
+        "image": "images/lowquality.jpg"
+    },
+
+    {
+        "name": "Global Water Crisis",
+        "title": "Access to Clean Water",
+        "description": "Over 2 billion people globally lack access to safe drinking water, leading to health crises, economic burdens, and reduced quality of life.",
+        "category": "health",
+        "image": "images/watercrises.jpg"
+    },
+    {
+        "name": "Education Deficiency",
+        "title": "Lack of Quality Education",
+        "description": "Millions of children, particularly in developing regions, have limited access to quality education, hindering economic and social development.",
+        "category": "education",
+        "image": "images/educationDeficiency.jpg"
+    },
+    {
+        "name": "Food Insecurity",
+        "title": "Hunger and Malnutrition",
+        "description": "Approximately 800 million people suffer from hunger, and millions more face malnutrition due to poverty, conflict, and environmental issues.",
+        "category": "food",
+        "image": "images/foodsecuirity.png"
+    },
+    {
+        "name": "Climate Change",
+        "title": "Environmental Degradation",
+        "description": "The increase in global temperatures is leading to extreme weather events, affecting agriculture, displacing populations, and endangering ecosystems.",
+        "category": "environment",
+        "image": "images/climate.jpg"
+    },
+    {
+        "name": "Gender Inequality",
+        "title": "Discrimination Against Women",
+        "description": "Women worldwide still face discrimination in terms of education, employment, and rights, impacting societal development and economic growth.",
+        "category": "social",
+        "image": "images/genderinequality.jpg"
+    },
+
+
+    {
+        "name": "Supply Chain Disruption",
+        "title": "Inefficiencies in Supply Chain Management",
+        "description": "Many businesses struggle with supply chain disruptions due to unforeseen events, leading to delays and increased costs.",
+        "category": "B2B",
+        "image": "images/supplychain.jpg"
+    },
+    {
+        "name": "Customer Retention",
+        "title": "Difficulty in Retaining Customers",
+        "description": "Businesses face challenges in maintaining customer loyalty in competitive markets, leading to increased churn rates.",
+        "category": "B2B",
+        "image": "images/customer.jpg"
+    },
+    {
+        "name": "Data Security",
+        "title": "Cybersecurity Threats",
+        "description": "With the rise of digital transformation, businesses are increasingly vulnerable to cyberattacks and data breaches, threatening sensitive information.",
+        "category": "B2B",
+        "image": "images/CyberSecurity.jpg"
+    },
+    {
+        "name": "Remote Work Challenges",
+        "title": "Managing Remote Teams",
+        "description": "Companies struggle to effectively manage remote teams, facing issues with communication, productivity, and employee engagement.",
+        "category": "B2B",
+        "image": "images/remotework.jpg"
+    },
+    {
+        "name": "Talent Acquisition",
+        "title": "Hiring Skilled Employees",
+        "description": "Finding and retaining qualified talent has become increasingly difficult, especially in specialized fields, leading to skill shortages.",
+        "category": "B2B",
+        "image": "images/talent.jpg"
+    },
+    {
+        "name": "Regulatory Compliance",
+        "title": "Navigating Regulatory Changes",
+        "description": "Businesses often struggle to keep up with evolving regulations, which can result in fines, legal issues, and operational disruptions.",
+        "category": "B2B",
+        "image": "images/regulatoryjpg.jpg"
+    },
+    {
+        "name": "Sustainability Initiatives",
+        "title": "Implementing Sustainable Practices",
+        "description": "Many companies face pressure to adopt sustainable practices but lack the knowledge or resources to implement effective solutions.",
+        "category": "B2B",
+        "image": "images/sustainability.jpg"
+    },
+    {
+        "name": "Inventory Management",
+        "title": "Overstock and Stockouts",
+        "description": "Businesses struggle with managing inventory effectively, leading to either overstocking or stockouts, which affect profitability.",
+        "category": "B2B",
+        "image": "images/inventory.jpg"
+    },
+    {
+        "name": "Marketing Effectiveness",
+        "title": "Measuring Marketing ROI",
+        "description": "Many companies find it challenging to measure the effectiveness of their marketing campaigns, leading to inefficient allocation of resources.",
+        "category": "B2B",
+        "image": "images/marketing.jpg"
+    },
+    {
+        "name": "Technology Integration",
+        "title": "Integrating New Technologies",
+        "description": "Businesses often struggle to integrate new technologies with existing systems, causing inefficiencies and frustration among employees.",
+        "category": "B2B",
+        "image": "images/technology.jpg"
+    },
+
+    {
+        "name": "Local Clinic Closure",
+        "title": "Health Services Shutdown",
+        "description": "In small towns, local clinics are shutting down due to low funding, leaving residents without easy access to doctors or basic health services.",
+        "category": "health",
+        "image": "images/clinic.jpg"
+    },
+    {
+        "name": "Untrained Teachers",
+        "title": "Lack of Qualified Teachers",
+        "description": "Many schools in rural areas have untrained teachers, making it hard for kids to learn effectively and keeping them behind their urban peers.",
+        "category": "education",
+        "image": "images/untrained teachers.jpg"
+    },
+    {
+        "name": "Dirty Drinking Water",
+        "title": "Contaminated Water Supply",
+        "description": "People in certain villages still rely on untreated river water, leading to frequent outbreaks of diseases like cholera and dysentery.",
+        "category": "environment",
+        "image": "images/DirtyWater.jpg"
+    },
+    {
+        "name": "Poor Internet Connectivity",
+        "title": "Slow and Unreliable Internet",
+        "description": "Some small towns and rural areas experience frequent internet outages, affecting businesses and children’s online learning.",
+        "category": "technology",
+        "image": "images/poornetwork.jpg"
+    },
+    
+    {
+        "name": "Unregulated Street Vendors",
+        "title": "Street Vendor Congestion",
+        "description": "Streets in busy areas are congested with unregulated vendors, making it difficult for pedestrians and vehicles to move freely.",
+        "category": "others",
+        "image": "images/unregulatedvendoe.jpg"
+    },
+
+    
+    {
+        "name": "Digital Divide",
+        "title": "Lack of Internet Access in Rural Areas",
+        "description": "Many rural communities still do not have access to reliable internet, limiting their opportunities for education and economic development.",
+        "category": "technology",
+        "image": "https://picsum.photos/seed/digitaldivide/300/200"
+    },
+    {
+        "name": "Food Waste",
+        "title": "Wastage in Food Supply Chain",
+        "description": "A large portion of food produced globally goes to waste due to inefficient supply chains and lack of storage facilities.",
+        "category": "food",
+        "image": "https://picsum.photos/seed/foodwaste/300/200"
+    },
+    {
+        "name": "Plastic Pollution",
+        "title": "Accumulation of Plastic Waste in Oceans",
+        "description": "Every year, millions of tons of plastic end up in the oceans, harming marine life and ecosystems.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/plasticpollution/300/200"
+    },
+    {
+        "name": "Urban Heat Islands",
+        "title": "Rising Temperatures in Cities",
+        "description": "Cities experience higher temperatures compared to rural areas due to infrastructure, causing health risks and energy consumption spikes.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/urbanheatisland/300/200"
+    },
+    {
+        "name": "Digital Identity Theft",
+        "title": "Unauthorized Access to Personal Information",
+        "description": "An increasing number of people are victims of identity theft due to weak security measures and cyber attacks.",
+        "category": "technology",
+        "image": "https://picsum.photos/seed/digitalidentity/300/200"
+    },
+    {
+        "name": "Mental Health Crisis",
+        "title": "Lack of Mental Health Services",
+        "description": "Many regions lack sufficient mental health services, leaving individuals without the support they need.",
+        "category": "health",
+        "image": "https://picsum.photos/seed/mentalhealth/300/200"
+    },
+    {
+        "name": "Deforestation",
+        "title": "Loss of Forests Due to Logging",
+        "description": "Deforestation is causing habitat loss and contributing to climate change, impacting biodiversity and local communities.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/deforestation/300/200"
+    },
+    {
+        "name": "Affordable Childcare",
+        "title": "High Cost of Childcare Services",
+        "description": "Many families struggle to afford childcare, affecting parents' ability to work and increasing economic strain.",
+        "category": "social_welfare",
+        "image": "https://picsum.photos/seed/childcare/300/200"
+    },
+    {
+        "name": "Human Trafficking",
+        "title": "Exploitation of Vulnerable Populations",
+        "description": "Human trafficking remains a serious issue globally, with millions of individuals being exploited for labor or sexual purposes.",
+        "category": "public_safety",
+        "image": "https://picsum.photos/seed/humantrafficking/300/200"
+    },
+    {
+        "name": "Agricultural Water Scarcity",
+        "title": "Water Shortage for Crop Irrigation",
+        "description": "Farmers face water shortages due to droughts and overuse, leading to decreased agricultural productivity and food insecurity.",
+        "category": "agriculture",
+        "image": "https://picsum.photos/seed/agriculturewater/300/200"
+    },
+    
+    {
+        "name": "Youth Unemployment",
+        "title": "High Unemployment Rates Among Youth",
+        "description": "Young people face difficulty finding jobs, leading to economic and social instability.",
+        "category": "employment",
+        "image": "https://picsum.photos/seed/youthunemployment/300/200"
+    },
+    {
+        "name": "Air Pollution",
+        "title": "Rising Air Pollution in Cities",
+        "description": "Increasing pollution levels in urban areas are causing health issues and environmental damage.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/airpollution/300/200"
+    },
+    {
+        "name": "Refugee Crisis",
+        "title": "Displacement Due to Conflict",
+        "description": "Millions of people are displaced due to conflict and persecution, lacking basic needs like shelter and healthcare.",
+        "category": "social_welfare",
+        "image": "https://picsum.photos/seed/refugeecrisis/300/200"
+    },
+    {
+        "name": "Income Inequality",
+        "title": "Economic Gap Between Rich and Poor",
+        "description": "The economic disparity between the wealthy and the poor continues to widen, affecting societal stability.",
+        "category": "financial_inclusion",
+        "image": "https://picsum.photos/seed/incomeinequality/300/200"
+    },
+    {
+        "name": "Overfishing",
+        "title": "Depletion of Marine Life",
+        "description": "Excessive fishing practices are reducing fish populations, affecting marine ecosystems and food security.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/overfishing/300/200"
+    },
+    {
+        "name": "Urban Overcrowding",
+        "title": "High Population Density in Cities",
+        "description": "Cities face challenges with overcrowding, leading to inadequate infrastructure and services.",
+        "category": "infrastructure",
+        "image": "https://picsum.photos/seed/urbanovercrowding/300/200"
+    },
+    {
+        "name": "Lack of Public Transportation",
+        "title": "Inaccessible Transport in Rural Areas",
+        "description": "Rural regions often lack efficient public transportation, limiting mobility and access to opportunities.",
+        "category": "infrastructure",
+        "image": "https://picsum.photos/seed/publictransport/300/200"
+    },
+    {
+        "name": "Malaria Outbreaks",
+        "title": "Increased Cases of Malaria",
+        "description": "In many tropical regions, malaria continues to spread due to inadequate medical infrastructure and prevention measures.",
+        "category": "health",
+        "image": "https://picsum.photos/seed/malaria/300/200"
+    },
+    {
+        "name": "Digital Literacy",
+        "title": "Lack of Digital Skills",
+        "description": "A significant portion of the global population lacks basic digital skills, limiting their economic and educational opportunities.",
+        "category": "education",
+        "image": "https://picsum.photos/seed/digitalliteracy/300/200"
+    },
+    {
+        "name": "Illegal Mining",
+        "title": "Environmental and Social Impact of Illegal Mining",
+        "description": "Unregulated mining activities are causing environmental destruction and displacing communities.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/illegalmining/300/200"
+    },
+    {
+        "name": "Lack of Sanitation",
+        "title": "Insufficient Access to Sanitary Facilities",
+        "description": "Billions of people still lack access to clean toilets and sanitation facilities, leading to health issues.",
+        "category": "health",
+        "image": "https://picsum.photos/seed/sanitation/300/200"
+    },
+    {
+        "name": "Human Rights Violations",
+        "title": "Discrimination Against Minorities",
+        "description": "In some regions, minority groups face discrimination, violence, and exclusion from society.",
+        "category": "social_welfare",
+        "image": "https://picsum.photos/seed/humanrights/300/200"
+    },
+    {
+        "name": "High Infant Mortality",
+        "title": "Preventable Infant Deaths",
+        "description": "High infant mortality rates persist in many parts of the world due to inadequate healthcare and nutrition.",
+        "category": "health",
+        "image": "https://picsum.photos/seed/infantmortality/300/200"
+    },
+    {
+        "name": "Water Contamination",
+        "title": "Polluted Water Sources",
+        "description": "In many areas, water sources are contaminated by industrial waste and pollutants, posing health risks.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/watercontamination/300/200"
+    },
+    {
+        "name": "Child Labor",
+        "title": "Exploitation of Children for Labor",
+        "description": "In several countries, children are forced into labor instead of attending school, hindering their development.",
+        "category": "social_welfare",
+        "image": "https://picsum.photos/seed/childlabor/300/200"
+    },
+    {
+        "name": "Healthcare Access",
+        "title": "Lack of Medical Facilities in Rural Areas",
+        "description": "Rural communities often have limited access to medical facilities, leading to untreated illnesses and high mortality rates.",
+        "category": "health",
+        "image": "https://picsum.photos/seed/healthcareaccess/300/200"
+    },
+    {
+        "name": "Drug Abuse",
+        "title": "Rising Rates of Drug Addiction",
+        "description": "Drug addiction is a growing problem in both urban and rural areas, leading to health issues and crime.",
+        "category": "public_safety",
+        "image": "https://picsum.photos/seed/drugabuse/300/200"
+    },
+    {
+        "name": "Poor Urban Planning",
+        "title": "Ineffective City Infrastructure",
+        "description": "Rapid urbanization without proper planning is leading to inefficient infrastructure and transportation systems.",
+        "category": "infrastructure",
+        "image": "https://picsum.photos/seed/urbanplanning/300/200"
+    },
+    {
+        "name": "Wildlife Poaching",
+        "title": "Endangered Species Threatened by Poaching",
+        "description": "Illegal hunting and poaching are endangering species, disrupting ecosystems and biodiversity.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/poaching/300/200"
+    },
+    {
+        "name": "E-Waste Management",
+        "title": "Improper Disposal of Electronic Waste",
+        "description": "The rise in electronic waste is causing environmental hazards due to improper disposal and recycling methods.",
+        "category": "waste_management",
+        "image": "https://picsum.photos/seed/ewaste/300/200"
+    },
+    {
+        "name": "Ocean Acidification",
+        "title": "Increasing Acidity of Ocean Waters",
+        "description": "The rising levels of CO2 are causing ocean acidification, affecting marine life and coral reefs.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/oceanacidification/300/200"
+    },
+    {
+        "name": "Hunger in Conflict Zones",
+        "title": "Lack of Food in War-Torn Areas",
+        "description": "Conflicts disrupt food supply chains, leaving many people without access to adequate nutrition.",
+        "category": "food",
+        "image": "https://picsum.photos/seed/conflicthunger/300/200"
+    },
+    {
+        "name": "Lack of Affordable Housing",
+        "title": "High Costs of Urban Living",
+        "description": "Rising real estate prices make it difficult for low-income families to find affordable housing in cities.",
+        "category": "housing",
+        "image": "https://picsum.photos/seed/affordablehousing/300/200"
+    },
+    {
+        "name": "Access to Clean Energy",
+        "title": "Limited Access to Renewable Energy Sources",
+        "description": "Many communities lack access to clean energy solutions, relying on polluting fuels for daily needs.",
+        "category": "technology",
+        "image": "https://picsum.photos/seed/cleanenergy/300/200"
+    },
+    {
+        "name": "Deficient Recycling Systems",
+        "title": "Inadequate Recycling Infrastructure",
+        "description": "Many countries lack proper recycling facilities, leading to increased waste and environmental harm.",
+        "category": "waste_management",
+        "image": "https://picsum.photos/seed/recycling/300/200"
+    },
+    {
+        "name": "Workplace Harassment",
+        "title": "Hostile Work Environment",
+        "description": "Employees face harassment and discrimination at workplaces, affecting their mental health and productivity.",
+        "category": "employment",
+        "image": "https://picsum.photos/seed/workplaceharassment/300/200"
+    },
+    {
+        "name": "Energy Poverty",
+        "title": "Lack of Access to Affordable Energy",
+        "description": "Many communities still rely on traditional biomass or have no access to electricity, impacting education, health, and economic development.",
+        "category": "technology",
+        "image": "https://picsum.photos/seed/energypoverty/300/200"
+    },
+    {
+        "name": "Plastic Waste",
+        "title": "Plastic Pollution in Oceans",
+        "description": "The improper disposal of plastic waste is harming marine life and entering the human food chain through seafood.",
+        "category": "waste_management",
+        "image": "https://picsum.photos/seed/plasticwaste/300/200"
+    },
+    {
+        "name": "Aging Population",
+        "title": "Challenges of an Aging Demographic",
+        "description": "With populations aging, many societies face economic and healthcare challenges in providing for the elderly.",
+        "category": "social_welfare",
+        "image": "https://picsum.photos/seed/agingpopulation/300/200"
+    },
+    {
+        "name": "Gender Pay Gap",
+        "title": "Economic Inequality Between Genders",
+        "description": "Women often earn less than men for the same work, leading to economic disparities and affecting overall economic growth.",
+        "category": "gender_equality",
+        "image": "https://picsum.photos/seed/genderpaygap/300/200"
+    },
+    {
+        "name": "Illegal Logging",
+        "title": "Deforestation Due to Illegal Logging",
+        "description": "Illegal logging activities are destroying forests and biodiversity, contributing to climate change.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/illegallogging/300/200"
+    },
+    {
+        "name": "Mental Health Stigma",
+        "title": "Lack of Support for Mental Health Issues",
+        "description": "Stigma and lack of awareness about mental health prevent people from seeking help, worsening their conditions.",
+        "category": "health",
+        "image": "https://picsum.photos/seed/mentalhealth/300/200"
+    },
+    {
+        "name": "Water Scarcity",
+        "title": "Limited Access to Clean Water",
+        "description": "Many regions face severe water shortages, affecting agriculture, health, and overall quality of life.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/waterscarcity/300/200"
+    },
+    {
+        "name": "Road Safety",
+        "title": "High Rates of Traffic Accidents",
+        "description": "Poor road infrastructure and lack of traffic regulations lead to high numbers of accidents and fatalities.",
+        "category": "public_safety",
+        "image": "https://picsum.photos/seed/roadsafety/300/200"
+    },
+    {
+        "name": "Seasonal Migration",
+        "title": "Migrants Facing Uncertain Conditions",
+        "description": "People migrating seasonally for work face unstable living and working conditions, impacting their quality of life.",
+        "category": "social_welfare",
+        "image": "https://picsum.photos/seed/seasonalmigration/300/200"
+    },
+    {
+        "name": "Lack of Skill Development Programs",
+        "title": "Unemployment Due to Skill Gaps",
+        "description": "Many individuals lack access to training programs that align with market needs, leading to unemployment.",
+        "category": "education",
+        "image": "https://picsum.photos/seed/skilldevelopment/300/200"
+    },
+    {
+        "name": "HIV/AIDS Spread",
+        "title": "Rising HIV/AIDS Cases",
+        "description": "Inadequate healthcare and awareness programs result in a rising number of HIV/AIDS cases in certain regions.",
+        "category": "health",
+        "image": "https://picsum.photos/seed/hivaids/300/200"
+    },
+    {
+        "name": "Wildfire Management",
+        "title": "Increase in Wildfires",
+        "description": "Poor land management and rising temperatures lead to an increase in wildfires, causing habitat destruction.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/wildfire/300/200"
+    },
+    {
+        "name": "Food Insecurity",
+        "title": "Lack of Access to Nutritious Food",
+        "description": "Millions of people face food insecurity due to poverty, conflict, and inadequate agricultural systems.",
+        "category": "food",
+        "image": "https://picsum.photos/seed/foodinsecurity/300/200"
+    },
+    {
+        "name": "Ocean Pollution",
+        "title": "Rising Pollution Levels in Oceans",
+        "description": "Oceans are increasingly polluted with chemicals and waste, affecting marine ecosystems and human health.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/oceanpollution/300/200"
+    },
+    {
+        "name": "Deficient School Systems",
+        "title": "Inadequate Education in Remote Areas",
+        "description": "Many schools in remote regions lack basic facilities and resources, impacting the quality of education.",
+        "category": "education",
+        "image": "https://picsum.photos/seed/schoolsystem/300/200"
+    },
+    {
+        "name": "Slum Housing Conditions",
+        "title": "Poor Living Conditions in Urban Slums",
+        "description": "Millions live in substandard conditions in urban slums, lacking access to basic services like water and sanitation.",
+        "category": "housing",
+        "image": "https://picsum.photos/seed/slumhousing/300/200"
+    },
+    {
+        "name": "Coral Bleaching",
+        "title": "Threat to Coral Reefs Due to Climate Change",
+        "description": "Rising ocean temperatures and pollution are causing coral bleaching, threatening marine biodiversity.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/coralbleaching/300/200"
+    },
+    {
+        "name": "Desertification",
+        "title": "Land Degradation in Arid Regions",
+        "description": "Unsustainable land use and climate change are turning fertile land into desert, impacting agriculture and livelihoods.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/desertification/300/200"
+    },
+    {
+        "name": "Rural Poverty",
+        "title": "High Poverty Rates in Rural Areas",
+        "description": "Rural communities often face higher poverty rates due to limited access to economic opportunities and resources.",
+        "category": "financial_inclusion",
+        "image": "https://picsum.photos/seed/ruralpoverty/300/200"
+    },
+    {
+        "name": "Urban Heat Islands",
+        "title": "Rising Temperatures in Cities",
+        "description": "The concentration of buildings and concrete in urban areas causes higher temperatures, affecting health and energy consumption.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/urbanheatisland/300/200"
+    },
+    {
+        "name": "Debt Crisis",
+        "title": "Rising Levels of Public and Private Debt",
+        "description": "High levels of debt, both personal and national, create economic instability and reduce growth opportunities.",
+        "category": "financial_inclusion",
+        "image": "https://picsum.photos/seed/debtcrisis/300/200"
+    },
+    {
+        "name": "Drug-Resistant Diseases",
+        "title": "Rise of Antibiotic-Resistant Infections",
+        "description": "Overuse of antibiotics has led to drug-resistant diseases, making it difficult to treat common infections.",
+        "category": "health",
+        "image": "https://picsum.photos/seed/drugresistance/300/200"
+    },
+    {
+        "name": "Access to Quality Education",
+        "title": "Lack of Equal Educational Opportunities",
+        "description": "Disparities in education quality lead to unequal opportunities for children, especially in low-income areas.",
+        "category": "education",
+        "image": "https://picsum.photos/seed/qualityeducation/300/200"
+    },
+    {
+        "name": "Soil Erosion",
+        "title": "Degradation of Soil Due to Unsustainable Practices",
+        "description": "Improper agricultural practices and deforestation lead to soil erosion, reducing land fertility.",
+        "category": "environment",
+        "image": "https://picsum.photos/seed/soilerosion/300/200"
+    }
+    
+       
+]
+
+
+

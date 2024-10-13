@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>My first website</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* CSS styles */
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .grid-item {
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            padding: 10px;
+            text-align: center;
+            background-color: #bb7b046c;
+        }
+        p {
+            font-size: 18px;
+            margin: 5px;
+        }
+        h2 {
+            text-align: center;
+            font-size: 25px;
+        }
+        h1 {
+            margin: 5px 0 0 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+        }
+        #postedP_heading {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 class="main_heading">EntreHub</h1>
+        <h1 class="slogan">Need of every entrepreneur</h1>
+        <div class="navbar">
+            <a class="problems" href="index.html">Problems</a>
+            <a class="unique_startup" href="unique_startup.html">Unique Startups</a>
+            <a class="build_network" href="build_network.html">Build network</a>
+            <a class="about_us" href="aboutus.html">About Us</a>
+        </div>
+    </header>
+
+    <select id="categoryFilter">
+        <option value="all">All Categories</option>
+        <option value="health">Health</option>
+        <option value="education">Education</option>
+        <option value="environment">Environment</option>
+        <option value="technology">Technology</option>
+        <option value="infrastructure">Infrastructure</option>
+        <option value="employment">Employment</option>
+        <option value="agriculture">Agriculture</option>
+        <option value="housing">Housing</option>
+        <option value="financial_inclusion">Financial Inclusion</option>
+        <option value="gender_equality">Gender Equality</option>
+        <option value="public_safety">Public Safety</option>
+        <option value="social_welfare">Social Welfare</option>
+        <option value="waste_management">Waste Management</option>
+        <option value="B2B">B2B</option>
+        <option value="B2C">B2C</option>
+        <option value="others">Others</option>
+    </select>
+
+    <h1 id="postedP_heading">Major Problems, but you can solve them</h1>
+    <div class="grid-container" id="problemsContainer"></div>
+
+    <script>
+        let problemsData = []; // Declare the variable to hold problems data
+
+        // Fetch problems from backend 
+        fetch("problems.json")
+            .then(response => response.json())
+            .then(data => {
+                problemsData = data; // Store data in problemsData
+                displayProblems(problemsData); // Display all problems initially
+            })
+            .catch(error => {
+                console.error('Error fetching problems:', error);
+            });
+
+        function displayProblems(problems) {
+            const container = document.getElementById('problemsContainer');
+            container.innerHTML = ''; // Clear the container first
+            problems.forEach(problem => {
+                const item = document.createElement('div');
+                item.className = 'grid-item';
+                item.innerHTML = `
+                    <img src="${problem.image}" alt="${problem.title}">
+                    <h2>${problem.title}</h2>
+                    <p><strong>Name:</strong> ${problem.name}</p>
+                    <p><strong>Description:</strong> ${problem.description}</p>
+                    <p><strong>Category:</strong> ${problem.category}</p>
+                `;
+                container.appendChild(item);
+            });
+        }
+
+        // Event listener for the dropdown filter
+        document.getElementById('categoryFilter').addEventListener('change', function() {
+            const selectedCategory = this.value;
+
+            if (selectedCategory === 'all') {
+                displayProblems(problemsData); // Display all problems if "All Categories" is selected
+            } else {
+                const filteredProblems = problemsData.filter(problem => 
+                    problem.category.toLowerCase() === selectedCategory.toLowerCase()
+                );
+                displayProblems(filteredProblems); // Display filtered problems
+            }
+        });
+    </script>
+</body>
+</html>
