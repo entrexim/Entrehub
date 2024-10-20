@@ -637,6 +637,13 @@
         "description": "Improper agricultural practices and deforestation lead to soil erosion, reducing land fertility.",
         "category": "environment",
         "image": "https://picsum.photos/seed/soilerosion/300/200"
+    },
+    {
+        "name": "More will be Available soon",
+        "title": "More will be Available soon....",
+        "description": "server Work",
+        "category": "loading...",
+        "image": "https://picsum.photos/seed/time/300/200"
     }
     
        
