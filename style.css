@@ -215,48 +215,17 @@
         gap: 30px;
         background-color: black;
         overflow:hidden;
+       flex-wrap: nowrap; /* Prevents wrapping to the next line */
+    
       }
 
-    .navbar.problems{
-      font-size: 25px;
-      text-decoration: none;
-      margin-left: 30px;
-      color: white;
-      background-color: transparent;
-      margin-left: 10px;
-      
-    }
-    .navbar.build_network{
-      font-size: 25px;
-      text-decoration: none;
-   
-      color: white;
-      background-color: transparent;
-    }
-    .about_us{
-      text-decoration: none;
-      font-size: 25px;
-     
-      color: white;
-      margin-right: 30px;
-      background-color: transparent;
-      
-    }
-    .unique_startup{
-      font-size: 25px;
-      text-decoration: none;
-     
-      color: white;
-      background-color: transparent;
-    }
-    
 
     .navbar a {
       width: 250px;
       height: 5px;
       font-size: 15px; 
       margin-left:20px
-     
+      flex:1;
       padding: 2px; 
       display: flex;
       background-color: transparent;
