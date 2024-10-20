@@ -212,6 +212,7 @@
         flex-direction: row;
         text-align: center;
         display:flex;
+        background-color:transparent;
         gap: 40px;
       }
 
@@ -220,6 +221,8 @@
       text-decoration: none;
       margin-left: 10px;
       color: white;
+      background-color: black;
+      background-color:transparent;
       
     }
     .navbar.build_network{
@@ -227,12 +230,18 @@
       text-decoration: none;
       margin-left: 200px;
       color: white;
+     background-color: black;
+      background-color:transparent;
+      
+
     }
     .about_us{
       text-decoration: none;
       font-size: 25px;
       margin-left:200px ;
       color: white;
+       background-color: black;
+      background-color:transparent;
       
     }
     .unique_startup{
@@ -240,6 +249,8 @@
       text-decoration: none;
       margin-left: 500px;
       color: white;
+       background-color: black;
+      background-color:transparent;
     }
     
 
