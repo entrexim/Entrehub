@@ -214,12 +214,13 @@
         display:flex;
         gap: 30px;
         background-color: black;
+        overflow:hidden;
       }
 
     .navbar.problems{
       font-size: 25px;
       text-decoration: none;
-      margin-left: 100px;
+      margin-left: 30px;
       color: white;
       background-color: transparent;
       margin-left: 10px;
@@ -237,7 +238,7 @@
       font-size: 25px;
      
       color: white;
-      margin-right: 100px;
+      margin-right: 30px;
       background-color: transparent;
       
     }
