@@ -221,6 +221,7 @@
       text-decoration: none;
       margin-left: 10px;
       color: white;
+      background-color: transparent;
       margin-left: 10px;
       
     }
@@ -229,6 +230,7 @@
       text-decoration: none;
       margin-left: 200px;
       color: white;
+      background-color: transparent;
     }
     .about_us{
       text-decoration: none;
@@ -236,6 +238,7 @@
       margin-left:200px ;
       color: white;
       margin-right: 10px;
+      background-color: transparent;
       
     }
     .unique_startup{
@@ -243,6 +246,7 @@
       text-decoration: none;
       margin-left: 500px;
       color: white;
+      background-color: transparent;
     }
     
 
