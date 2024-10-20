@@ -31,6 +31,29 @@
   background-color: black;
   
   }
+.navbar {
+        flex-direction: row;
+        text-align: center;
+        display:flex;
+        gap: 30px;
+        background-color: black;
+        overflow:hidden;
+       flex-wrap: nowrap; /* Prevents wrapping to the next line */
+    
+      }
+
+
+  .navbar a {
+    width: 250px;
+    height: 5px;
+    font-size: 15px; 
+    margin-left:20px
+    flex:1;
+    padding: 2px; 
+    display: flex;
+    background-color: transparent;
+    justify-items: baseline;
+    align-items: center
 
   .navbar :hover{
     text-decoration: overline;
