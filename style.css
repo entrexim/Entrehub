@@ -20,7 +20,8 @@
         justify-content: space-around;
         align-items: center;
         background-color: black;
-        padding: 2px;
+        padding: 2px; 
+        flex-wrap:nowrap;
     }
 
     /* Styling for the links */
