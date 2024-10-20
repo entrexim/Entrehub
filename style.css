@@ -212,7 +212,7 @@
         flex-direction: row;
         text-align: center;
         display:flex;
-        gap: 5px;
+        gap: 40px;
         background-color: black;
       }
 
@@ -228,14 +228,14 @@
     .navbar.build_network{
       font-size: 25px;
       text-decoration: none;
-      margin-left: 200px;
+      
       color: white;
       background-color: transparent;
     }
     .about_us{
       text-decoration: none;
       font-size: 25px;
-      margin-left:200px ;
+    
       color: white;
       margin-right: 5px;
       background-color: transparent;
@@ -244,7 +244,7 @@
     .unique_startup{
       font-size: 25px;
       text-decoration: none;
-      margin-left: 500px;
+      
       color: white;
       background-color: transparent;
     }
