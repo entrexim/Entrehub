@@ -2,7 +2,7 @@
   padding: 0;
   
 
-}
+
 #categoryFilter{
   margin-top: 20px;
   margin-left: 400px;
@@ -15,84 +15,43 @@
 }
 
 
-.navbar{
-  height: 30px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-decoration-color: aliceblue;
-  color: white;
-  text-align: center;
-  padding: 14px;
-  text-decoration: none;
-  font-size: 17px;
-  border-radius: 10px;
-  margin-left: 3%;
-  background-color: black;
-  
-  }
 .navbar {
-        flex-direction: row;
-        text-align: center;
-        display:flex;
-        gap: 30px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
         background-color: black;
-        overflow:hidden;
-       flex-wrap: nowrap; /* Prevents wrapping to the next line */
-    
-      }
+        padding: 10px;
+    }
+
+    /* Styling for the links */
+    .navbar a {
+        color: white;
+        text-decoration: none;
+        padding: 10px 15px;
+        transition: background-color 0.3s;
+    }
+
+    /* Hover effect */
+    .navbar a:hover {
+        background-color: #444;
+        border-radius: 5px;
+    }
+
+    /* Responsive navbar for smaller screens */
+    @media (max-width: 768px) {
+        .navbar {
+            flex-direction: column;
+            text-align: center;
+        }
+
+        .navbar a {
+            padding: 15px;
+            width: 100%;
+        }
+    }
 
 
-  .navbar a {
-    width: 250px;
-    height: 5px;
-    font-size: 15px; 
-    margin-left:20px
-    flex:1;
-    padding: 2px; 
-    display: flex;
-    background-color: transparent;
-    justify-items: baseline;
-    align-items: center
 
-  .navbar :hover{
-    text-decoration: overline;
-    text-shadow: 50px;
-  }
-  
-
-  
-  .problems{
-    font-size: 25px;
-    text-decoration: none;
-    margin-left: 10px;
-    color: white;
-    background-color: black;
-    
-  }
-  .build_network{
-    font-size: 25px;
-    text-decoration: none;
-    margin-left: 200px;
-    color: white;
-    background-color: black;
-  }
-  .about_us{
-    text-decoration: none;
-    font-size: 25px;
-    margin-left:200px ;
-    color: white;
-    background-color: black;
-    
-  }
-  .unique_startup{
-    font-size: 25px;
-    text-decoration: none;
-    margin-left: 100px;
-    color: white;
-    background-color: black;
-  }
-  
 
   .main_heading{
     font-size: 60px;
@@ -231,29 +190,7 @@
       margin-left: 70px;
       width: 250px;
     }
-    .navbar {
-        flex-direction: row;
-        text-align: center;
-        display:flex;
-        gap: 30px;
-        background-color: black;
-        overflow:hidden;
-       flex-wrap: nowrap; /* Prevents wrapping to the next line */
-    
-      }
-
-
-    .navbar a {
-      width: 250px;
-      height: 5px;
-      font-size: 15px; 
-      margin-left:20px
-      flex:1;
-      padding: 2px; 
-      display: flex;
-      background-color: transparent;
-      justify-items: baseline;
-      align-items: center;
+   
       
   }
 
