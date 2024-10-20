@@ -212,6 +212,7 @@
         flex-direction: row;
         text-align: center;
         display:flex;
+        overflow:hidden;
       
         background-color: black;
       }
@@ -251,7 +252,7 @@
     
 
     .navbar a {
-      width: 250px;
+      width: fit-conent;
       height: 5px;
       font-size: 15px; 
      
