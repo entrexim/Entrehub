@@ -22,7 +22,7 @@
   align-items: center;
   text-decoration-color: aliceblue;
   color: white;
-  gap:40;
+
   text-align: center;
   padding: 14px;
   text-decoration: none;
@@ -51,14 +51,14 @@
   .build_network{
     font-size: 25px;
     text-decoration: none;
-    margin-left: 10px;
+    margin-left: 100px;
     color: white;
     background-color: black;
   }
   .about_us{
     text-decoration: none;
     font-size: 25px;
-    margin-left:10px ;
+    margin-left:100px ;
     color: white;
     background-color: black;
     
@@ -66,7 +66,7 @@
   .unique_startup{
     font-size: 25px;
     text-decoration: none;
-    margin-left: 10px;
+    margin-left: 100px;
     color: white;
     background-color: black;
   }
