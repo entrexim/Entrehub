@@ -36,10 +36,7 @@
     text-decoration: overline;
     text-shadow: 50px;
   }
-  .navbar:active{
-    color:red;
-  }
-
+  
 
   
   .problems{
@@ -47,6 +44,7 @@
     text-decoration: none;
     margin-left: 10px;
     color: white;
+    background-color: black;
     
   }
   .build_network{
@@ -54,12 +52,14 @@
     text-decoration: none;
     margin-left: 200px;
     color: white;
+    background-color: black;
   }
   .about_us{
     text-decoration: none;
     font-size: 25px;
     margin-left:200px ;
     color: white;
+    background-color: black;
     
   }
   .unique_startup{
@@ -67,6 +67,7 @@
     text-decoration: none;
     margin-left: 100px;
     color: white;
+    background-color: black;
   }
   
 
@@ -162,24 +163,33 @@
 
 
 }
-#point{
-  margin: 200px 0 0 -350px ;
+#points{
+  margin: 250px 0 0 -400px;
+  list-style-type: square;
+}
+#points li {
+
+  font-size: 0.9em; /* Smaller font size for mobile */
+  margin: 8px 0;
+  list-style-type: square;
+
   font-size: 40px;
   color: white;
-  display: inline-block;
+  display: block;
+}
   
 
 
 
 
-}
+
 
 /* css for the about_us html file */
 
 
 #about_para{
-  margin: 50px 0 0 50px;
-  font-size: 30px;
+  margin: 30px 0 0 20px;
+  font-size: 25px;
 
 }
 
@@ -267,7 +277,99 @@
     body {
         margin: 10px;
     }
+
+    .whatsup{
+      width: 100px;
+      height: 600px;
+    }
+    .build_mainhead{
+      font-size: 2px;
+    }
+    .whatsup{
+      height: auto;
+      width: 480px;
+    }
+    #points{
+      margin: 200px 0 0 -350px ;
+      font-size: 40px;
+      color: white;
+      display: inline-block;
+      
+    
+    
+    
+    
+    }
+    
+    
 }
+
+
+
+
+
+/* Responsive Styles (Mobile View Only) */
+@media (max-width: 480px) {
+  /* Heading size adjustments for mobile */
+  .main_heading {
+      font-size: 2em; /* Smaller font size for mobile */
+  }
+
+  .slogan {
+      font-size: 1em; /* Smaller font size for mobile */
+  }
+
+  #build_mainhead {
+      font-size: 1.4em; /* Smaller font size for mobile */
+      margin-top: 1px;
+      margin-bottom: 10px;
+  }
+
+  #whatsup {
+      padding: 10px;
+      max-height: auto; /* Set a maximum height for the div */
+      overflow-y: auto; /* Make the div scrollable if the content exceeds max-height */
+      margin: 0; /* Remove any margin */
+      width: 100%; /* Make the div take the full width of the screen */
+      box-sizing: border-box; /* Include padding in the width calculation */
+      display: flex;
+      flex-direction: column; /* Stack items vertically */
+      align-items: center; /* Center items horizontally */
+      gap: 15px; /* Add some space between items */
+  }
+
+  #commlink {
+      font-size: 3em; /* Smaller font size for mobile */
+      margin-top: -5px;
+      text-align: center; /* Center align text */
+      color: aqua;
+  }
+
+  #points {
+      list-style: none;
+      color: #fff;
+      padding: 0;
+      font-size: 25px;
+      text-align: left; /* Align text to the left */
+      width: 100%; /* Take full width */
+      margin: 0 0 0 40px;
+  }
+
+  #points li {
+      font-size: 0.9em; /* Smaller font size for mobile */
+      margin: 8px 0;
+      list-style-type: square;
+  }
+
+  #commQR {
+      width: 100%; /* Full width for mobile */
+      max-width: 300px; /* Limit the maximum size */
+      height: auto;
+      margin-top: 15px;
+      margin-left: -5px;
+  }
+}
+
 
  
 
