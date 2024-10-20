@@ -212,7 +212,7 @@
         flex-direction: row;
         text-align: center;
         display:flex;
-        gap: 40;
+        gap: 10;
         background-color: black;
       }
 
@@ -222,7 +222,7 @@
       margin-left: 10px;
       color: white;
       background-color: transparent;
-      margin-left: 50px;
+      margin-left: 5px;
       
     }
     .navbar.build_network{
@@ -237,7 +237,7 @@
       font-size: 25px;
       margin-left:200px ;
       color: white;
-      margin-right: 50px;
+      margin-right: 5px;
       background-color: transparent;
       
     }
