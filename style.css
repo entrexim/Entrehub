@@ -5,15 +5,19 @@
 }
 
 header{
-  background-color:rgb(0, 255, 242);
+  background-color:#e0aaff;
   border-radius: 15px;
+}
+body{
+  background-color: #e0aaff;
 }
 #categoryFilter{
   margin-top: 20px;
   margin-left: 400px;
   width: 700px;
   height: 30px;
-  background-color: #BCAA99;
+  color: white;
+  background-color: #240046;
   border-radius: 10px;
   font-size: 18px;
   
@@ -33,7 +37,7 @@ header{
   text-decoration: none;
   font-size: 17px;
   border-radius: 5px;
-  background-color: black;
+  background-color: #240046;
   
   }
 
@@ -49,7 +53,7 @@ header{
     text-decoration: none;
     margin-left: 20px;
     color: white;
-    background-color: black;
+   
     
   }
   .build_network{
@@ -57,14 +61,14 @@ header{
     text-decoration: none;
     margin-left: 200px;
     color: white;
-    background-color: black;
+   
   }
   .about_us{
     text-decoration: none;
     font-size: 25px;
     margin-left:200px ;
     color: white;
-    background-color: black;
+    
     
   }
   .unique_startup{
@@ -72,7 +76,7 @@ header{
     text-decoration: none;
     margin-left: 100px;
     color: white;
-    background-color: black;
+  
   }
   
 
@@ -213,13 +217,18 @@ header{
       margin-left: 70px;
       width: 250px;
     }
+    #postedP_heading {
+      margin: 10px 0 10px;
+      font-size: 20px;
+    }
+    
     .navbar {
         width: 100%;
         flex-direction: row;
         text-align: center;
         display:flex;
         gap: 20px;
-        background-color: black;
+       
       }
 
     .navbar.problems{
