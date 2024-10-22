@@ -15,7 +15,7 @@
             gap: 20px;
         }
         .grid-item {
-            border: 1px solid #ccc;
+            border: 2px solid rebeccapurple;
             border-radius: 8px;
             padding: 10px;
             text-align: center;
@@ -37,24 +37,19 @@
             height: auto;
             border-radius: 4px;
         }
-        #postedP_heading {
-            margin-bottom: 10px;
-        }
+       
     </style>
-
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-54ZNJ4TWVJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-54ZNJ4TWVJ');
-</script>
 </head>
 <body>
     <header>
+        <div id="ontop">
+        <img id="logo" src="images/logo.png" alt="logo">
         <h1 class="main_heading">EntreHub</h1>
+        <a href="notify.html">
+            <img id="notify" src="images/notify.png" alt="">
+        </a>
+        </div>
+        
         <h1 class="slogan">Need of every entrepreneur</h1>
         <div class="navbar">
             <a class="problems" href="index.html">Problems</a>
@@ -86,6 +81,9 @@
 
     <h1 id="postedP_heading">Major Problems, but you can solve them</h1>
     <div class="grid-container" id="problemsContainer"></div>
+    <a class="floating-button" href="build_network.html">
+        <img src="commlogo.png" alt="Community logo">
+    </a>
 
     <script>
         let problemsData = []; // Declare the variable to hold problems data
