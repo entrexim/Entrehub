@@ -535,7 +535,6 @@ body{
 
   .main_heading {
     font-size: 50px; /* Slightly reduce the heading size */
-    position: fixed;
     margin-left: 85px;
   }
 
