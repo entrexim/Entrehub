@@ -335,6 +335,7 @@ body{
         text-align: center;
         display:flex;
         gap: 20px;
+        position:sticky;
        
       }
 
